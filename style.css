@@ -1,0 +1,43 @@
+.done{
+    background-color: blanchedalmond;
+    border: 2px green solid;
+    text-decoration: line-through;
+    opacity: .4;
+}
+
+.selected{
+    color: green;
+}
+.div-class{
+    display: none;
+}
+.mystyle {
+    width: 100%;
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+.btn-class{
+    font-weight: bold;
+    position: relative;
+    width: 70px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: green;
+    color: black;
+}
+.btn-class2{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+}
+
+.sections{
+    background-color: black;
+    color: green;
+}
